@@ -16,7 +16,8 @@ vgames게임 데이터를 이용하여 게임시장을 분석
 ### datafile : vgames2.csv
 
 dataset --
-<img width="470" alt="image" src="https://user-images.githubusercontent.com/90304674/177641927-a90c1548-61a9-4db4-9171-7a97068190e3.png">
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/90304674/177649529-13bc3942-031c-40ed-a56b-52937e254a52.png">
+
 
 Name : 게임 이름
 
